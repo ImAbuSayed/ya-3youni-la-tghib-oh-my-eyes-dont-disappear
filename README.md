@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ya 3youni La Tghib – Oh My Eyes, Don't Disappear |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 26, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-3youni-la-tghib-oh-my-eyes-dont-disappear/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا عيوني لا تغيب، في الليل أنت ناري
+> يا حبيبي لا تروح، أنت قدري ومساري
+> أنا عطشان لهواك، وأنت في دمي جاري
+> تعال في حضني نام، قلبي لك الدارِ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
