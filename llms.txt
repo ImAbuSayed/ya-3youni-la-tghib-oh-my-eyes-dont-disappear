@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-3youni-la-tghib-oh-my-eyes-dont-disappear/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Ya 3youni La Tghib – Oh My Eyes, Don't Disappear](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get a Licensing Quote for Ya 3youni La Tghib – Oh My Eyes, Don't Disappear](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
